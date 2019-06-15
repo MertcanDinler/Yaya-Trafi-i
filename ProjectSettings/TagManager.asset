@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Oyuncu
+  - Kaldirim
+  - Yol
+  - KaldirimKenari
+  - YolYayaGecit
+  - Cevre
+  - Odul
+  - IsikBolgesi
+  - Arac
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: AracYolu
+    uniqueID: 1347735927
+    locked: 0
+  - name: Kaldirim
+    uniqueID: 831537197
+    locked: 0
+  - name: KaldirimKenari
+    uniqueID: 540065839
+    locked: 0
+  - name: Finish
+    uniqueID: 4279286167
+    locked: 0
+  - name: Oyuncu
+    uniqueID: 3264486633
+    locked: 0
+  - name: Cevre
+    uniqueID: 2617117161
+    locked: 0
+  - name: Arac
+    uniqueID: 3307425215
+    locked: 0
+  - name: TrafikIsik
+    uniqueID: 706461315
+    locked: 0
+  - name: odul
+    uniqueID: 2720909935
+    locked: 0
